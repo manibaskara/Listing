@@ -1,0 +1,49 @@
+{
+   "category": [
+      {
+         "id": 1,
+         "name": "Clothing",
+         "parentId": 0
+      },
+      {
+         "id": 2,
+         "name": "Men",
+         "parentId": 1
+      },
+      {
+         "id": 4,
+         "name": "Women",
+         "parentId": 1
+      },
+      {
+         "id": 6,
+         "name": "Ethinic Wear",
+         "parentId": 4
+      },
+      {
+         "id": 9,
+         "name": "Western Wear",
+         "parentId": 4
+      },
+      {
+         "id": 10,
+         "name": "Sarees",
+         "parentId": 6
+      },
+      {
+         "id": 12,
+         "name": "Seasonal Wear",
+         "parentId": 2
+      },
+      {
+         "id": 14,
+         "name": "Appliances",
+         "parentId": 0
+      },
+      {
+         "id": 15,
+         "name": "TV",
+         "parentId": 14
+      }
+   ]
+}

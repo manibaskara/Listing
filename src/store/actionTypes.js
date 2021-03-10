@@ -1,0 +1,3 @@
+export const GET_LISTING_DATA = 'GET_EVENT_DATA';
+export const GET_LISTING_ERROR = 'GET_EVENT_ERROR';
+export const IS_LOADING = 'IS_LOADING';
